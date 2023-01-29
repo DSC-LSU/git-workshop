@@ -1,2 +1,17 @@
-# git-workshop
-This repository was created to support LSU GDSC Git Lab Workshop
+╔╦═╦╗─────────────╔╗<br />
+║║║║╠═╦╗╔═╦═╦══╦═╗║╚╦═╗<br />
+║║║║║╩╣╚╣═╣╬║║║║╩╣║╔╣╬║<br />
+╚═╩═╩═╩═╩═╩═╩╩╩╩═╝╚═╩═╝<br />
+╔╗╔╗───╔══╦╦╗─╔╦═╦╗───╔╗╔═╦╗<br />
+║╚╣╚╦═╗║╔═╬╣╚╗║║║║╠═╦╦╣╠╣═╣╚╦═╦═╗<br />
+║╔╣║║╩╣║╚╗║║╔╣║║║║║╬║╔╣═╬═║║║╬║╬║<br />
+╚═╩╩╩═╝╚══╩╩═╝╚═╩═╩═╩╝╚╩╩═╩╩╩═╣╔╝<br />
+──────────────────────────────╚╝<br />
+This repository was created to support LSU GDSC Git Lab Workshop<br /><br />
+
+Can you branch?<br />
+(\____/)<br />
+( ͡ ͡° ͜ ʖ ͡ ͡°)<br />
+\╭☞ \╭☞ 🅸🅵 🆈🅾🆄 🅲🅰🅽, 🆈🅾🆄🆁 🅽🅰🅼🅴 🆂🅷🅾🆄🅻🅳 🅱🅴 🅸🅽 🅼🆈 🅻🅾🅶🆂.<br />
+
+Check the txt file...
